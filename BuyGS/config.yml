@@ -1,0 +1,8 @@
+# default config.yml
+plots:
+   member:
+    costs: 0
+    permission: 'fcgsbuy.member'
+   vip:
+    costs: 0
+    permission: 'fcgsbuy.vip'
